@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/platforms/android-33/core-for-system-modules.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/platforms/android-33/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/platforms/android-33/android-stubs-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/platforms/android-33/uiautomator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

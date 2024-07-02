@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/compiler-interface-sources-2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/incremental-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/nailgun.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/compiler-interface-sources-2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/compiler-interface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/compiler-interface-sources-2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/scala-parallel-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/sbt-interface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/compiler-jps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/scala3-sbt-bridge_3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/lib/jps/scala3-sbt-bridge_3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

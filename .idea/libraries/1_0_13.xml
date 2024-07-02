@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="1.0.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/repo/org/jetbrains/scala/sbt-idea-compiler-indices_2.12_1.0/1.0.13/sbt-idea-compiler-indices-1.0.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/repo/org/jetbrains/scala/sbt-idea-compiler-indices_2.12_1.0/1.0.13/sbt-idea-compiler-indices-1.0.13-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/repo/org/jetbrains/scala/sbt-idea-compiler-indices_2.12_1.0/1.0.13/sbt-idea-compiler-indices-1.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

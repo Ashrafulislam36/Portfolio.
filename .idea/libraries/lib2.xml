@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/build-tools/33.0.2/renderscript/lib/renderscript-v8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/build-tools/33.0.2/renderscript/lib/androidx-rs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

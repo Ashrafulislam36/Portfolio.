@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="securitypack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/LocalLow/Sun/Java/Deployment/security/securitypack.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

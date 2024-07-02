@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="keymap-vscode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/keymap-vscode/lib/keymap-vscode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

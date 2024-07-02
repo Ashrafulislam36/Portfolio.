@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt-launch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/launcher/sbt-launch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

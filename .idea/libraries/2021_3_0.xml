@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="2021.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Google/AndroidStudio2022.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

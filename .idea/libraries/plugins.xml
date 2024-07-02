@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Google/AndroidStudio2022.2/plugins/XWinKeymap.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Google/AndroidStudio2022.2/plugins/Scala.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Google/AndroidStudio2022.2/plugins/keymap-vscode.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Google/AndroidStudio2022.2/plugins/IdeaVim.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
